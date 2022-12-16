@@ -12,7 +12,7 @@
     "enabled": true,
     "autoSignOut": true,
     "oidcSettings": {
-      "authority": "https://dev.oidc.gov.bc.ca/auth/realms/gzyg46lx",
+      "authority": "https://dev.loginproxy.gov.bc.ca/auth/realms/digitaltrust-citz",
       "clientId": "bcreg-registration-issuer",
       "redirectUri": "https://bcreg-registration-issuer-dev.apps.silver.devops.gov.bc.ca/oidc-callback",
       "redirect_uri": "https://bcreg-registration-issuer-dev.apps.silver.devops.gov.bc.ca/oidc-callback-error",
