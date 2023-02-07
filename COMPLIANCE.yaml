@@ -7,5 +7,5 @@ spec:
     status: not-required
     last-updated: '2023-02-07T02:15:17.858Z'
   - name: STRA
-    status: STRA_STATUS_HERE
-    last-updated: '2021-02-18T18:56:08.854Z'
+    status: not-required
+    last-updated: '2023-02-07T02:15:34.373Z'
